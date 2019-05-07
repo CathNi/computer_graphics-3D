@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Model2DDrawer", "Model2DDrawer\PlotDrawer.vcxproj", "{B0D44DF5-3A07-4CC5-BAB5-DB69952A73C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0D44DF5-3A07-4CC5-BAB5-DB69952A73C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B0D44DF5-3A07-4CC5-BAB5-DB69952A73C3}.Debug|Win32.Build.0 = Debug|Win32
+		{B0D44DF5-3A07-4CC5-BAB5-DB69952A73C3}.Release|Win32.ActiveCfg = Release|Win32
+		{B0D44DF5-3A07-4CC5-BAB5-DB69952A73C3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
